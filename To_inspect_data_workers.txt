@@ -1,0 +1,8 @@
+
+- Observations to inspect directly:
+
+nuemp		ntrab		check			
+129725
+154553		200088176 	y
+		204756756
+		

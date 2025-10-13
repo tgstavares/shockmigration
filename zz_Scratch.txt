@@ -1,0 +1,18 @@
+
+ano nuemp emp_id nuest estab_id ntrab sexo
+sitpro (stpro)
+
+ctrem
+
+tipo_contr tipo_contr1 (ctcont)
+reg_dur (crtrab)
+
+rganho (rganh)
+rbase
+prest_irreg (rpirg)
+rextra (rextr)
+hnormais (nhnor)
+hextra (nhext)
+pnt (npnor)
+
+idade_Cod (idade_yy_TB_COD)
