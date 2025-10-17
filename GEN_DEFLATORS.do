@@ -1,5 +1,5 @@
 clear all
-local HOME "/Users/tgst/Library/CloudStorage/Dropbox/PhD_Economics/research/my_projects/3rd_year_project_3rd_year_project/125_LaborIncomeDynamics/Data"
+local HOME "/home/tgst/Desktop/Projs/02_Shockmigration/shockmigration"
 cd `HOME'
 
 getTimeSeries EUROSTAT NAMA_10_GDP/A.PD20_EUR+CP_MEUR.D1+B1GQ+B1G+D11.PT "" "" 0 0

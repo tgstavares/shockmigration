@@ -1,7 +1,7 @@
 
 clear all
 
-local HOME "/Users/tgst/Library/CloudStorage/Dropbox/PhD_Economics/research/my_projects/3rd_year_project_3rd_year_project/125_LaborIncomeDynamics/Data/Aux_datasets"
+local HOME "/home/tgst/Desktop/Projs/02_Shockmigration/shockmigration/Aux_datasets"
 cd `HOME'
 
 set more off

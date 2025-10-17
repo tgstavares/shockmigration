@@ -1,5 +1,5 @@
 clear all
-local HOME "/Users/tgst/Library/CloudStorage/Dropbox/PhD_Economics/research/my_projects/3rd_year_project_3rd_year_project/125_LaborIncomeDynamics/Data/Replication_Martins_2025"
+local HOME "/home/tgst/Desktop/Projs/02_Shockmigration/shockmigration/Replication_Martins_2025"
 cd `HOME'
 
 use DATA_migration_regs.dta,clear
